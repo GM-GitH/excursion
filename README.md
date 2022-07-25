@@ -12,7 +12,7 @@
 *Users record and share their experiences.*
 
 ### Tecnologías:        
-*HTML5 landing page.*
+*HTML5*
 
 ### Colaboradores:      
 *Oxygen*
